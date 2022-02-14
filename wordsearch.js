@@ -264,7 +264,7 @@
    var csize = size
    if (this.settings.condition > 2) {
       rsize = 14;
-      csize = 11;
+      csize = 12;
    }
     for (var row = 0; row < rsize; row++) {
       for (var col = 0; col < csize; col++) {
@@ -491,7 +491,7 @@
     var csize = this.settings.gridSize;
     if (this.settings.condition > 2) {
        rsize = 14;
-       csize = 11;
+       csize = 12;
     }
     for (var row = 0; row < rsize; row++) {
       for (var col = 0; col < csize; col++) {
